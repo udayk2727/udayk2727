@@ -142,6 +142,6 @@ Exploration of quantum computing techniques for image processing and quantum-cla
 
 **Interested in AI engineering, data science, Oracle development, or intelligent enterprise automation? Let's connect.**
 
-[Email me](mailto:udaykodeboyina@gmail.com) · [LinkedIn](https://www.linkedin.com/in/uday-kiran-k-8065723aa/) · [Portfolio](https://YOUR_USERNAME.github.io)
+[Email me](mailto:udaykodeboyina@gmail.com) · [LinkedIn](https://www.linkedin.com/in/uday-kiran-k-8065723aa/) · [Portfolio](https://udayk2727.github.io/)
 
 </div>
