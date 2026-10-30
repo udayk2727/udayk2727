@@ -8,9 +8,7 @@
 
 *From enterprise databases to intelligent agents — connecting data, intelligence, and action.*
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykodeboyina@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_WITH_YOUR_PROFILE/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://YOUR_USERNAME.github.io)
+
 
 </div>
 
