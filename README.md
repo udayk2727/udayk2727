@@ -1,59 +1,40 @@
-# Hi, I'm Uday Kiran Kodeboyina 👋
+# Hey, I'm Uday Kiran 👋
 
-### AI Engineer | Generative AI | Agentic AI | Data Scientist | Oracle Database Developer
+### I turn complex data into intelligent systems — and intelligent systems into real-world impact.
 
-I'm an AI Workflow Analyst and Data Science professional with 3+ years of experience across AI-driven automation, machine learning, Oracle database development, and enterprise data workflows.
+**AI Engineer | Generative & Agentic AI | Data Scientist | Oracle Developer**
 
-I hold a **Master of Science in Data Science from the University of Houston**, with a strong foundation in Artificial Intelligence, Machine Learning, Natural Language Processing, and database technologies.
+I'm fascinated by one simple question: **What if technology could do more than just process information? What if it could actually understand, reason, and take action?**
 
-Currently, I'm working as an **AI Workflow Analyst at Meduit**, focusing on AI-powered healthcare revenue cycle automation, Generative AI, Retrieval-Augmented Generation (RAG), and intelligent agent workflows using Python, LangChain, and LangGraph.
+That's the kind of technology I love building.
 
-Previously, I worked as an **Associate Software Engineer – Oracle Financials at Accenture**, supporting Oracle Financials modules including Accounts Receivable (AR), Accounts Payable (AP), and General Ledger (GL). My work involved SQL, PL/SQL, stored procedures, financial data validation, reconciliation, and reporting.
+My work lives at the intersection of **Artificial Intelligence, Data Science, and Enterprise Database Engineering**, where I transform complex data, manual processes, and business challenges into intelligent, scalable solutions.
 
-I enjoy combining **Artificial Intelligence with Oracle database technologies** to build intelligent, scalable, and reliable enterprise applications.
+With a Master's in Data Science from the **University of Houston** and experience spanning **AI workflow automation at Meduit** and **Oracle Financials development at Accenture**, I bring together two worlds that don't always meet: modern AI intelligence and the enterprise systems that power real businesses.
 
-## What I'm currently focused on
+From building **RAG-powered knowledge assistants and multi-agent AI workflows** to engineering **Oracle SQL/PLSQL solutions and intelligent financial automation**, I enjoy taking ideas beyond experimentation and turning them into practical applications.
 
-- Building Generative AI and Agentic AI applications using LLMs, LangChain, and LangGraph.
-- Developing RAG-powered knowledge assistants and intelligent document processing systems.
-- Working with Oracle SQL, PL/SQL, database optimization, and financial data automation.
-- Connecting Python and AI agents with Oracle databases to automate enterprise workflows.
-- Exploring cloud technologies, MLOps, and end-to-end AI application deployment.
+One project that reflects my approach is my **Oracle AI Accounts Receivable Agent**, where I connected Python with Oracle Database and PL/SQL to automate invoice analysis, payment reconciliation, and financial follow-up workflows.
 
-## Technical Skills
+### What makes my approach different?
 
-**AI & Generative AI:** LLMs, RAG, LangChain, LangGraph, OpenAI API, Hugging Face, AI Agents, Prompt Engineering
+I don't just want to build models that predict.
 
-**Machine Learning & Data Science:** Python, Scikit-learn, TensorFlow, PyTorch, NLP, Pandas, NumPy
+**I want to build systems that understand, decide, and help people get things done.**
 
-**Oracle & Databases:** Oracle Database, SQL, PL/SQL, Oracle Financials (AR, AP, GL), Stored Procedures, Query Optimization, Data Validation
+Whether it's an LLM retrieving the right information, an AI agent orchestrating a workflow, or an Oracle database processing millions of business records, I'm interested in how every component works together to create something useful.
 
-**Data Engineering:** ETL, Apache Spark, PySpark, Airflow, REST APIs
+### Currently exploring
 
-**Cloud & Development:** OCI, AWS, Azure, Docker, FastAPI, Git/GitHub, CI/CD
+- Generative AI, Agentic AI, and autonomous workflow orchestration
+- RAG architectures, vector search, and LLM evaluation
+- Oracle Database, SQL/PLSQL, and AI-powered enterprise automation
+- Machine Learning, NLP, and intelligent document processing
+- Cloud-native AI applications, MLOps, and deployment
 
-## Featured Projects
+**My philosophy:** Build with curiosity. Engineer with purpose. Create technology that makes a difference.
 
-### Oracle AI Accounts Receivable Agent
-An Oracle Database and Python-based automation project that integrates PL/SQL financial processing with agent-oriented workflows for invoice management, payment reconciliation, overdue account analysis, and follow-up actions.
-
-### Enterprise RAG Document Q&A Chatbot
-A document intelligence application using LangChain, LlamaIndex, ChromaDB, and Hugging Face embeddings to deliver context-aware answers with source citations.
-
-### Hierarchical Text Classification of Amazon Reviews
-A deep learning research project using BERT, Hierarchical Attention Networks, and Graph Neural Networks to classify more than 40,000 Amazon reviews.
-
-### Taxi Management System
-A database-driven application built with Python, Flask, MySQL, and NLP-based customer feedback analysis.
-
-### Quantum Computing in Image Processing
-A research project exploring quantum machine learning, computer vision, and hybrid quantum-classical algorithms.
-
-## My Career Interests
-
-I'm passionate about opportunities involving **AI Engineering, Generative AI, Machine Learning, Oracle Database Development, and intelligent enterprise automation**.
-
-I enjoy learning new technologies, building meaningful projects, and exploring how AI and enterprise databases can work together to solve real-world problems.
+Let's connect, collaborate, and build what comes next. 🚀
 
 **Let's connect and build something impactful!**
 <!--
