@@ -77,7 +77,7 @@ My approach: don't stop at a model or a query. Connect the pieces into a useful,
 
 ## 🚀 Featured projects
 
-> **Repository links:** Replace each `YOUR_USERNAME` and `REPLACE_...` link below with the real public repository URL. If a project isn't public yet, remove its link until it is ready.
+
 
 ### 01 · Oracle AI Accounts Receivable Agent
 **Oracle Database · PL/SQL · Python · Agent-oriented automation**
