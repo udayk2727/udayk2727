@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Uday Kiran Kodeboyina 👋
 
 ### AI Engineer | Generative AI | Agentic AI | Data Scientist | Oracle Database Developer
