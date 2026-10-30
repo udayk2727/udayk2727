@@ -1,53 +1,144 @@
-# Hey, I'm Uday Kiran 👋
+<div align="center">
 
-### I turn complex data into intelligent systems — and intelligent systems into real-world impact.
+# ⚡ Beyond Code. Beyond Data. Building Intelligence.
 
-**AI Engineer | Generative & Agentic AI | Data Scientist | Oracle Developer**
+### Uday Kiran Kodeboyina
 
-I'm fascinated by one simple question: **What if technology could do more than just process information? What if it could actually understand, reason, and take action?**
+**AI Workflow Analyst · Generative & Agentic AI · Data Science · Oracle SQL/PLSQL**
 
-That's the kind of technology I love building.
+*From enterprise databases to intelligent agents — connecting data, intelligence, and action.*
 
-My work lives at the intersection of **Artificial Intelligence, Data Science, and Enterprise Database Engineering**, where I transform complex data, manual processes, and business challenges into intelligent, scalable solutions.
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykodeboyina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_WITH_YOUR_PROFILE/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://YOUR_USERNAME.github.io)
 
-With a Master's in Data Science from the **University of Houston** and experience spanning **AI workflow automation at Meduit** and **Oracle Financials development at Accenture**, I bring together two worlds that don't always meet: modern AI intelligence and the enterprise systems that power real businesses.
+</div>
 
-From building **RAG-powered knowledge assistants and multi-agent AI workflows** to engineering **Oracle SQL/PLSQL solutions and intelligent financial automation**, I enjoy taking ideas beyond experimentation and turning them into practical applications.
+---
 
-One project that reflects my approach is my **Oracle AI Accounts Receivable Agent**, where I connected Python with Oracle Database and PL/SQL to automate invoice analysis, payment reconciliation, and financial follow-up workflows.
+## 👨‍💻 The engineer behind the code
 
-### What makes my approach different?
+```python
+class UdayKiran:
+    name = "Uday Kiran Kodeboyina"
+    focus = ["Generative AI", "Agentic AI", "Data Science", "Oracle"]
+    toolkit = ["Python", "LangChain", "LangGraph", "RAG", "SQL", "PL/SQL"]
+    education = "M.S. Data Science | University of Houston"
+    current_role = "AI Workflow Analyst | Meduit"
+    previous_role = "Oracle Financials Engineer | Accenture"
+    philosophy = "Turn data into intelligence, and intelligence into action."
 
-I don't just want to build models that predict.
+    def build(self):
+        return "Intelligent systems with real-world impact 🚀"
+```
 
-**I want to build systems that understand, decide, and help people get things done.**
+I build at the intersection of **AI engineering, machine learning, and enterprise data systems**. My work ranges from RAG assistants and human-in-the-loop agent workflows to **Oracle Database and PL/SQL solutions** supporting financial operations.
 
-Whether it's an LLM retrieving the right information, an AI agent orchestrating a workflow, or an Oracle database processing millions of business records, I'm interested in how every component works together to create something useful.
+My approach: don't stop at a model or a query. Connect the pieces into a useful, testable workflow that solves a business problem.
 
-### Currently exploring
+🎓 **M.S. in Data Science**, University of Houston (December 2025)  
+💼 **Current:** AI Workflow Analyst at Meduit  
+🧩 **Previously:** Associate Software Engineer — Oracle Financials at Accenture
 
-- Generative AI, Agentic AI, and autonomous workflow orchestration
-- RAG architectures, vector search, and LLM evaluation
-- Oracle Database, SQL/PLSQL, and AI-powered enterprise automation
-- Machine Learning, NLP, and intelligent document processing
-- Cloud-native AI applications, MLOps, and deployment
+---
 
-**My philosophy:** Build with curiosity. Engineer with purpose. Create technology that makes a difference.
+## 🛠️ Tech stack
 
-Let's connect, collaborate, and build what comes next. 🚀
+### 🤖 Generative AI & agent workflows
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8B5CF6?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4338CA?style=flat-square)
 
-**Let's connect and build something impactful!**
-<!--
-**udayk2727/udayk2727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🗄️ Oracle & data engineering
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-B91C1C?style=flat-square)
+![Oracle Financials](https://img.shields.io/badge/Oracle_Financials-AR_%7C_AP_%7C_GL-C74634?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-Here are some ideas to get you started:
+### 📊 Machine learning, cloud & delivery
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured projects
+
+> **Repository links:** Replace each `YOUR_USERNAME` and `REPLACE_...` link below with the real public repository URL. If a project isn't public yet, remove its link until it is ready.
+
+### 01 · Oracle AI Accounts Receivable Agent
+**Oracle Database · PL/SQL · Python · Agent-oriented automation**
+
+An Oracle-backed accounts receivable workflow that tracks invoices and payments, reconciles balances, identifies overdue accounts, and orchestrates follow-up actions. Includes Python workflows, PL/SQL reconciliation, notification processing, and exception handling. Its action orchestration is designed for **future LLM tool-calling integration**.
+
+[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_ORACLE_AR_REPO)
+
+### 02 · Enterprise RAG Document Q&A Chatbot
+**LangChain · LlamaIndex · ChromaDB · Hugging Face · RAGAS · Docker**
+
+A retrieval-augmented document assistant for PDFs and policy documents, combining semantic chunking, BM25 + vector retrieval, cross-encoder re-ranking, cited responses, and RAGAS-based evaluation.
+
+[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_RAG_REPO)
+
+### 03 · Hierarchical Text Classification of Amazon Reviews
+**NLP · BERT · PyTorch · Hierarchical Attention Networks · GNN**
+
+Graduate research on **40,000+ Amazon reviews** across 6 top-level and 23 sub-level product categories. Reported results: **88.0% Level 1 accuracy**, **68.7% Level 2 accuracy**, with 12+ ablation studies.
+
+[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_NLP_REPO)
+
+### 04 · Taxi Management System
+**Python · Flask · MySQL · REST APIs · JWT · Transformers**
+
+A database-backed ride management application covering bookings, drivers, customers, payments, and trip history, with geospatial fare calculations and NLP-based review sentiment classification.
+
+[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_TAXI_REPO)
+
+### 05 · Quantum Computing in Image Processing
+**Qiskit · PennyLane · Python · Quantum ML · MNIST**
+
+Graduate research exploring quantum-classical approaches to image classification, compression, segmentation, and cryptography. Resume-reported experiments include **90% Quantum SVM accuracy** and improved PSNR for amplitude encoding versus a classical baseline.
+
+[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_QUANTUM_REPO)
+
+---
+
+## 💼 Experience at a glance
+
+| Role | Organization | Focus |
+| --- | --- | --- |
+| **AI Workflow Analyst** · Jan 2026–Present | **Meduit** | Healthcare revenue cycle AI workflows, LLMs, RAG, document intelligence, human review and guardrails |
+| **Associate Software Engineer — Oracle Financials** · Jan–Dec 2023 | **Accenture** | Oracle AR/AP/GL, SQL/PLSQL development, reconciliation and data validation |
+| **Process Mining Virtual Intern** · Sep–Dec 2021 | **Celonis** | Process analysis, event logs, KPI dashboards |
+
+---
+
+## 🎯 What I'm building toward
+
+- Reliable **agentic AI workflows** with evaluation, guardrails, and human oversight
+- **RAG systems** that retrieve trustworthy, traceable answers
+- **Oracle + AI integrations** for business process automation
+- Production-oriented **Python APIs, data pipelines, and deployments**
+
+<div align="center">
+
+### Let's turn data into meaningful action.
+
+**Interested in AI engineering, data science, Oracle development, or intelligent enterprise automation? Let's connect.**
+
+[Email me](mailto:udaykodeboyina@gmail.com) · [LinkedIn](https://www.linkedin.com/in/REPLACE_WITH_YOUR_PROFILE/) · [Portfolio](https://YOUR_USERNAME.github.io)
+
+</div>
