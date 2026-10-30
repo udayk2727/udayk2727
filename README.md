@@ -74,45 +74,50 @@ My approach: don't stop at a model or a query. Connect the pieces into a useful,
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
+## 🚀 Featured Projects
 
-## 🚀 Featured projects
+### 🤖 [Oracle AI Accounts Receivable Agent](https://github.com/udayk2727/Oracle-AI-AR-Agent)
+**Python | Oracle Database | SQL | PL/SQL | Intelligent Automation**
+
+An Oracle-backed automation system for invoice processing, payment reconciliation, overdue account analysis, and financial follow-up workflows.
+
+### 🧠 [DocSentinel — Enterprise RAG Q&A Chatbot](https://github.com/udayk2727/docsentinel-RAG-QA-Chatbot)
+**Python | LangChain | RAG | Vector Search | LLMs**
+
+An intelligent document Q&A system designed to retrieve relevant knowledge and generate context-aware responses using Retrieval-Augmented Generation.
+
+### 🗄️ [Oracle DBA Toolkit](https://github.com/udayk2727/oracle-dba-toolkit)
+**Oracle Database | SQL | PL/SQL | Database Administration**
+
+A collection of Oracle database administration utilities and scripts focused on operational monitoring and database management.
+
+### ⚡ [Oracle AI Labs](https://github.com/udayk2727/oracle-ai-labs)
+**Python | Oracle | AI Experimentation**
+
+A repository exploring the integration of Oracle database technologies with AI engineering and automation.
+
+### 🚕 [Taxi Management System](https://github.com/udayk2727/DBMT_Taxi_Management_proj)
+**Python | Flask | MySQL | SQL | NLP**
+
+A database-driven taxi management application covering ride management, customer and driver information, payments, and application workflows.
+
+*Repository fork — see commit history for individual contributions.*
+
+### ⚛️ [Quantum Computing in Image Processing](https://github.com/udayk2727/Quantum-Computing-in-Image-Processing)
+**Python | Qiskit | Quantum Machine Learning | Image Processing**
+
+Exploration of quantum computing techniques for image processing and quantum-classical machine learning.
+
+*Repository fork — see commit history for individual contributions.*
+
+---
+
+### 💻 Explore More
+
+**[View All My GitHub Repositories](https://github.com/udayk2727?tab=repositories)**
 
 
 
-### 01 · Oracle AI Accounts Receivable Agent
-**Oracle Database · PL/SQL · Python · Agent-oriented automation**
-
-An Oracle-backed accounts receivable workflow that tracks invoices and payments, reconciles balances, identifies overdue accounts, and orchestrates follow-up actions. Includes Python workflows, PL/SQL reconciliation, notification processing, and exception handling. Its action orchestration is designed for **future LLM tool-calling integration**.
-
-[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_ORACLE_AR_REPO)
-
-### 02 · Enterprise RAG Document Q&A Chatbot
-**LangChain · LlamaIndex · ChromaDB · Hugging Face · RAGAS · Docker**
-
-A retrieval-augmented document assistant for PDFs and policy documents, combining semantic chunking, BM25 + vector retrieval, cross-encoder re-ranking, cited responses, and RAGAS-based evaluation.
-
-[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_RAG_REPO)
-
-### 03 · Hierarchical Text Classification of Amazon Reviews
-**NLP · BERT · PyTorch · Hierarchical Attention Networks · GNN**
-
-Graduate research on **40,000+ Amazon reviews** across 6 top-level and 23 sub-level product categories. Reported results: **88.0% Level 1 accuracy**, **68.7% Level 2 accuracy**, with 12+ ablation studies.
-
-[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_NLP_REPO)
-
-### 04 · Taxi Management System
-**Python · Flask · MySQL · REST APIs · JWT · Transformers**
-
-A database-backed ride management application covering bookings, drivers, customers, payments, and trip history, with geospatial fare calculations and NLP-based review sentiment classification.
-
-[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_TAXI_REPO)
-
-### 05 · Quantum Computing in Image Processing
-**Qiskit · PennyLane · Python · Quantum ML · MNIST**
-
-Graduate research exploring quantum-classical approaches to image classification, compression, segmentation, and cryptography. Resume-reported experiments include **90% Quantum SVM accuracy** and improved PSNR for amplitude encoding versus a classical baseline.
-
-[**Explore project →**](https://github.com/YOUR_USERNAME/REPLACE_QUANTUM_REPO)
 
 ---
 
