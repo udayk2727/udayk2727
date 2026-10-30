@@ -139,6 +139,6 @@ Graduate research exploring quantum-classical approaches to image classification
 
 **Interested in AI engineering, data science, Oracle development, or intelligent enterprise automation? Let's connect.**
 
-[Email me](mailto:udaykodeboyina@gmail.com) · [LinkedIn](https://www.linkedin.com/in/REPLACE_WITH_YOUR_PROFILE/) · [Portfolio](https://YOUR_USERNAME.github.io)
+[Email me](mailto:udaykodeboyina@gmail.com) · [LinkedIn](https://www.linkedin.com/in/uday-kiran-k-8065723aa/) · [Portfolio](https://YOUR_USERNAME.github.io)
 
 </div>
